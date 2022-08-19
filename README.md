@@ -5,7 +5,9 @@ The aim of this project is minimize the Financial Institutions non
 performing assets by predicting the patterns of customers who are likely to 
 default on loan. 
 
-LoanStatNew Description
+LoanStat
+
+New Description
 
 addr_state: The state provided by the borrower in the loan application
 
