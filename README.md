@@ -48,3 +48,7 @@ fundedamntinv: The total amount committed by investors for that loan at that poi
 grade LC assigned loan grade
 
 home_ownership: The home ownership status provided by the borrower during registration. Our values are: RENT, OWN, MORTGAGE, OTHER.
+
+
+Datasset link: https://www.kaggle.com/datasets/mrferozi/loan-data-for-dummy-bank
+
